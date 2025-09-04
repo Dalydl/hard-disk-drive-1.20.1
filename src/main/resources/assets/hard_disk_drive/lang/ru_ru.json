@@ -1,0 +1,9 @@
+{
+  "block.hard_disk_drive.encryptor_block": "Компьютер",
+  "item.hard_disk_drive.encrypted_item": "Жесткий диск",
+  "creativetab.disktab": "Hard disk drive",
+  "toolip.hard_disk_drive.encrypt": "§7Зашифрован",
+  "button.encrypt": "Зашифровать",
+  "button.decrypt": "Расшифровать",
+  "tooltip.encrypted_item.integrity": "Целотность: "
+}

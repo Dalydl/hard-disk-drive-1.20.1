@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hard_disk_drive:encrypted_item"
+    },
+    {
+      "item": "minecraft:iron_axe"
+    }
+  ],
+  "result": {
+    "item": "hard_disk_drive:encrypted_item",
+    "count": 1
+  }
+}

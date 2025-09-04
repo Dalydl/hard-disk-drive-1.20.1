@@ -1,0 +1,8 @@
+{
+  "block.hard_disk_drive.encryptor_block": "Computer",
+  "item.hard_disk_drive.encrypted_item": "Hard Disk Drive",
+  "creativetab.disktab": "Hard disk drive",
+  "toolip.hard_disk_drive.encrypt": "§7Encrypted",
+  "button.encrypt": "Encrypt",
+  "button.decrypt": "Decrypt"
+}
